@@ -877,7 +877,7 @@ MTU  = 1280
 
 [Peer]
 PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-Endpoint = 162.159.193.10:1701
+Endpoint = 162.159.192.1:2408
 # AllowedIPs = 0.0.0.0/0
 # AllowedIPs = ::/0
 KeepAlive = 30
@@ -977,7 +977,7 @@ MTU  = 1280
 
 [Peer]
 PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-Endpoint = 162.159.193.10:1701
+Endpoint = 162.159.192.1:2408
 # AllowedIPs = 0.0.0.0/0
 # AllowedIPs = ::/0
 KeepAlive = 30
@@ -1066,7 +1066,7 @@ MTU  = 1280
 
 [Peer]
 PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-Endpoint = 162.159.193.10:1701
+Endpoint = 162.159.192.1:2408
 # AllowedIPs = 0.0.0.0/0
 # AllowedIPs = ::/0
 KeepAlive = 30
